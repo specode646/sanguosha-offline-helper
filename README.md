@@ -2,7 +2,7 @@
 
 面向线下三国杀玩家的纯前端辅助工具，用于查询武将技能、管理将池，并按照特殊武将的技能规则生成随机候选结果。
 
-在线体验：<https://duter646.github.io/sanguosha-offline-helper/>
+在线体验：<https://specode646.github.io/sanguosha-offline-helper/>
 
 ## 功能
 
